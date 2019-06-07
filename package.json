@@ -94,7 +94,7 @@
     "postcss-cssnext": "^3.0.2",
     "postcss-import": "^12.0.0",
     "postcss-responsive-type": "^1.0.0",
-    "prettier": "^1.7.4"
+    "prettier": "^1.18.1"
   },
   "greenkeeper": {
     "ignore": ["ember-cli-htmlbars-inline-precompile", "ember-cli-mirage"]
